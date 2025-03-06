@@ -11,3 +11,5 @@ BUAA wlkt research proposal
 定义了一种新格式\chapter{}，对应原模板中的大板块标题
 
 如不需目录，请自行注释掉对应代码。
+
+有任何问题可联系vx13757889425 或发送邮件至suyingke@buaa.edu.cn
