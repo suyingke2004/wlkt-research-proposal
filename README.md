@@ -12,15 +12,13 @@
 
 ## 项目简介
 
-本项目为北京航空航天大学（BUAA）23系未来空天进阶项目开题报告的LaTeX模板，改编自[开放原子能社团的北航毕设模板](https://github.com/BHOSC/BUAAthesis)。该模板提供了规范的开题报告格式，便于未来空天项目的学生快速生成符合要求的开题报告文档。
+本项目为北京航空航天大学（BUAA）23系未来空天各种报告的LaTeX模板，改编自[开放原子能社团的北航毕设模板](https://github.com/BHOSC/BUAAthesis)。该模板提供了规范的开题报告格式，便于未来空天项目的学生快速生成符合要求的开题报告文档。
 
-## 特性
+目前已包含模板：
+未来空天进阶项目开题报告
+机械设计基础（2）结题报告
 
-- 符合北航未来空天项目开题报告要求的格式与样式
-- 自动生成封面、目录和页眉页脚
-- 支持参考文献的多种引用格式
-- 可定制的章节结构
-- 简洁明了的使用方式
+
 
 ## 目录结构
 
@@ -30,7 +28,7 @@
 │   ├── style/           # 样式文件目录
 │   ├── figure/          # 图片存放目录
 │   ├── data/            # 内容数据目录
-│   │   ├── bachelor/    # 本科生相关文件
+│   │   ├── bachelor/   
 │   │   ├── abstract.tex # 摘要文件
 │   │   ├── chapter1.tex # 第一章内容
 │   │   ├── chapter2.tex # 第二章内容
@@ -108,10 +106,10 @@ git clone https://github.com/yourusername/wlkt-research-proposal.git
 
 主要内容位于`data/`目录下的各章节文件中：
 
-- `chapter1.tex`：论文选题依据
-- `chapter2.tex`：研究内容和技术路线
-- `chapter3.tex`：进度安排
-- `abstract.tex`：摘要
+- `chapter1.tex`
+- `chapter2.tex`
+- `chapter3.tex`
+- `abstract.tex`
 
 ### 5. 编译文档
 
